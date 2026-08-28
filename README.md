@@ -1,4 +1,4 @@
-# Onyx Mobile (Expo)
+# Onyx Mobile (Expo) - Test
 
 A standalone React Native app for Onyx, under `mobile/` — independent of `web/` (its own
 dependencies, lockfile, and tooling). Scaffolded with `create-expo-app` (Expo Router template).
